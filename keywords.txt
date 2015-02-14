@@ -1,0 +1,16 @@
+#######################################
+# Syntax Coloring Map for SMDjoystick
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SMDjoystick	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+read	KEYWORD2
+SMDjoystick	KEYWORD2
