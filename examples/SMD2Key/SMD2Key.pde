@@ -12,8 +12,6 @@ gamepad->arduino
 7->7
 8->GND
 9->8
-
-You will need JoyState library
 */
 SMDjoystick j(2,3,4,5,6,7,8);
 uint16_t data=0;
